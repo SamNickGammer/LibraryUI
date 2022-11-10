@@ -5,8 +5,8 @@
 using ```npm install -g json-server```
 
 
-Then start server using *npm run server*
+Then start server using ```npm run server```
 
-then start *npm start*
+then start ```npm start```
 
 Happy Hacking!
